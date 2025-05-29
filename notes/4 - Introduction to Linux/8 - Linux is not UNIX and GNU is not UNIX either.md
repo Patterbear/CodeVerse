@@ -1,0 +1,1 @@
+Note that Linux is not UNIX and while you may see some similar commands and functionalities in Mac and Linux distributions like Ubuntu, their kernels are very different.

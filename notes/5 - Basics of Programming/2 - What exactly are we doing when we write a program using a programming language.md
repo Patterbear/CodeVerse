@@ -1,0 +1,3 @@
+It boils down to what a computer does. A computer takes a stream of 0's and 1's, processes it and sends back another stream of 0's and 1's. What we do in a programming language is no different.
+
+We bring some data (in the form of 0's and 1's) into memory, we process it and then we send it out. For example, we may read something from a file, do some processing and write it back to another file. We may read from a database (which is simply, a large store of data in our storage device like hard-disk), do some analysis and send it to some third party service. We may read something that we received over the network, perform some processing and write the output to screen. All the work we do involves some form of input, process, output.

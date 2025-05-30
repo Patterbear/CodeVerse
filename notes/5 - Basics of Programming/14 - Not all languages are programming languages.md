@@ -1,0 +1,3 @@
+A language which has variables, operators, expressions, statements, conditionals and looping can be called as a "programming language". The technical term for these are "Turing complete languages".
+
+There are many types of languages we come across during software development. Not all of them are programming languages. For example, HTML, CSS, XML are not programming languages because they lack some of these features.

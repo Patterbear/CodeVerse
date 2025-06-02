@@ -1,0 +1,9 @@
+1. echo "Hello World"
+2. ls /
+3. pwd
+4. ls
+5. ls /var
+6.
+	ls /etc/hosts
+	cat /etc/hosts
+

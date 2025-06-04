@@ -1,15 +1,139 @@
-Part 1:
-1. python3
-2. print("Hello World")
-3. exit()
-4. ipython3
-5. print("Hello World")
-6. exit()
+Part 1 - Starting the Python interpreter:
+	1. python3
+	2. print("Hello World")
+	3. exit()
+	4. ipython3
+	5. print("Hello World")
+	6. exit()
 
-Part 2:
-7. vim hello.py
-8. i
-9. print('Hello World')
-10. Esc
-11. cat hello.py
-12. python3 hello.py
+Part 2 - Python code in files:
+	1. vim hello.py
+	2. I
+	3. print('Hello World')
+	4. Esc
+	5. cat hello.py
+	6. python3 hello.py
+
+Part 3 - Python Language Basics - Truthy/Falsy values:
+	1. ipython3
+	2. None
+	3. False
+	4. True
+	5. exit()
+
+Part 4 - Python Language Basics - Numeric Values:
+	1. ipython3
+	2. 235
+	3. 123.45
+	4. 1 + 0j
+	5. exit()
+
+Part 5 - Python Language Basics - Strings:
+	1. ipython3
+	2. 'Hello'
+	3. "Hello"
+	4.
+		"""
+		This
+		is
+		usually used
+		when we need strings that span multiple lines
+		"""
+
+	5.
+
+		'Hello"World'
+		"It's warm out there"
+
+	6. r'\n stands for new-line'
+	7. exit()
+
+Part 6 - More fun with Python strings:
+	1. ipython3
+	2. print('Hello World')
+	3. 'Hello ' + 'World'
+	4. '-' * 20
+	5. exit()
+
+Part 7 - Variables in Python:
+	1. ipython3
+	2. i = 10
+	3. print(i)
+	4. place = 'Bangalore'
+	5. print(place)
+	6.
+
+		place_name = 'Bangalore'
+		_place_name = 'Bangalore'
+		PlaceName = 'Bangalore'
+		_ = 'Bangalore'
+
+	7. exit()
+
+Part 8 - Type Conversion in Python:
+	1. ipython3
+	2. type(10)
+	3.
+		
+		i = 10
+		type(i)
+
+	4. type('10')
+	5. int('10')
+	6. float('10.3')
+	7. 
+
+		i = 10
+		type(i)
+		j = float(i)
+		type(j)
+
+	8. exit()
+
+Part 9 - Operators in Python:
+	1. ipython3
+	2.
+
+		2 + 3
+		3 - 5
+		4 * 3
+		3 / 2
+
+	3. 3 / float(2)
+	4. 3 ** 4
+	5. 10 % 7
+	6. exit()
+
+Part 10 - Control Flow in Python:
+	1. python3
+	2.
+
+		a = 10
+		if a < 10:
+			print('a is less than 10')
+		else:
+    			print('a is not less than 10')
+
+	3.
+
+		a = 10
+		if a < 10:
+    			print('a is less than 10')
+		elif a < 5:
+    			print('a is less than 5')
+		else:
+    			print('a is not less than 5 or 10')
+
+	4.
+
+		i = 0
+		while i < 10:
+    			i = i + 1
+    			print(i)
+
+	5.
+		
+		for i in range(10):
+    		print(i)
+
+	6. exit()

@@ -1,0 +1,15 @@
+Part 1:
+1. python3
+2. print("Hello World")
+3. exit()
+4. ipython3
+5. print("Hello World")
+6. exit()
+
+Part 2:
+7. vim hello.py
+8. i
+9. print('Hello World')
+10. Esc
+11. cat hello.py
+12. python3 hello.py
